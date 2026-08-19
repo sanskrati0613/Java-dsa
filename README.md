@@ -16,6 +16,8 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Arrays - 1D & 2D
 - Strings
 - Basic Maths for DSA
+- OOP - Classes, Object and Constructors
+- Encapsulation, Inheritance
 
 ## Goal
 
