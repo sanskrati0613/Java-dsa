@@ -17,7 +17,8 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Strings
 - Basic Maths for DSA
 - OOP - Classes, Object and Constructors
-- Encapsulation, Inheritance
+- Encapsulation, Inheritance, Polymorphism and Abstraction
+- 
 
 ## Goal
 
