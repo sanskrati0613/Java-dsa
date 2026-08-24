@@ -18,7 +18,7 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Basic Maths for DSA
 - OOP - Classes, Object and Constructors
 - Encapsulation, Inheritance, Polymorphism and Abstraction
-- 
+- Java Collection Framework - List Interface, Queue Interface and Set Interface.
 
 ## Goal
 
